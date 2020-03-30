@@ -1,23 +1,12 @@
-目录:
+# FAF
 
-​	1.fishyu
+DFAF
 
-​	1.dDD
+## DFAFF
 
-​	2.DD
+# DFAFA
 
-# 1.fishyu
+FAFAFA
 
-wendang用于参加了
+[TOC]
 
-```python
-classes = ["aeroplane", "bicycle", "bird", "boat", "bottle", "bus", "car", "cat", "chair", "cow", "diningtable", "dog", "horse", "motorbike", "person", "pottedplant", "sheep", "sofa", "train", "tvmonitor"]
-```
-
-
-
-# 2. fafafafa
-
-afafafafa
-
-# 3.fafadfafaf
